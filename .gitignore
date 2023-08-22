@@ -1,0 +1,7 @@
+node_modules/
+dist/
+out/
+notes/
+Thumbs.db
+npm-debug.log
+.vscode/
